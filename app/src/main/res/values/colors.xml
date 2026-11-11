@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="win11_bg">#F3F3F3</color>
+    <color name="win11_surface">#FFFFFF</color>
+    <color name="win11_accent">#0067C6</color>
+    <color name="win11_text_primary">#1B1B1B</color>
+    <color name="win11_text_secondary">#5D5D5D</color>
+</resources>

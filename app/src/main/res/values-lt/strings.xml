@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skaičiuotuvas</string>
+    <string name="mode_standard">Standartinis</string>
+    <string name="history_title">Istorija</string>
+    <string name="memory_title">Atmintis</string>
+    <string name="history_empty">Istorijos dar nėra</string>
+    <string name="memory_empty">Atmintyje nieko neišsaugota</string>
+    <string name="clear_history">Išvalyti visą istoriją</string>
+    <string name="clear_memory">Išvalyti visą atmintį</string>
+    <string name="error_div_zero">Dalyba iš nulio negalima</string>
+    <string name="error_invalid_input">Netinkama įvestis</string>
+    <string name="error_overflow">Perpildymas</string>
+
+    <string name="btn_mc">Išvalyti atmintį</string>
+    <string name="btn_mr">Iškviesti iš atminties</string>
+    <string name="btn_m_plus">Pridėti prie atminties</string>
+    <string name="btn_m_minus">Atimti iš atminties</string>
+    <string name="btn_ms">Išsaugoti į atmintį</string>
+    <string name="btn_mv">Atminties sąrašas</string>
+    <string name="btn_percent">Procentai</string>
+    <string name="btn_ce">Išvalyti įvestį</string>
+    <string name="btn_c">Išvalyti viską</string>
+    <string name="btn_backspace">Trinti simbolį</string>
+    <string name="btn_reciprocal">Atvirkštinė reikšmė (1/x)</string>
+    <string name="btn_square">Kėlimas kvadratu (x²)</string>
+    <string name="btn_sqrt">Kvadratinė šaknis (²√x)</string>
+    <string name="btn_divide">Dalyba</string>
+    <string name="btn_multiply">Daugyba</string>
+    <string name="btn_subtract">Atimtis</string>
+    <string name="btn_add">Sudėtis</string>
+    <string name="btn_negate">Ženklo keitimas</string>
+    <string name="btn_dot">Kablelis</string>
+    <string name="btn_equals">Lygu</string>
+</resources>

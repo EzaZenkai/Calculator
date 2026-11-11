@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="mode_standard">Standard</string>
+    <string name="history_title">History</string>
+    <string name="memory_title">Memory</string>
+    <string name="history_empty">There\'s no history yet</string>
+    <string name="memory_empty">There\'s nothing saved in memory</string>
+    <string name="clear_history">Clear all history</string>
+    <string name="clear_memory">Clear all memory</string>
+    <string name="error_div_zero">Cannot divide by zero</string>
+    <string name="error_invalid_input">Invalid input</string>
+    <string name="error_overflow">Overflow</string>
+
+    <string name="btn_mc">Memory clear</string>
+    <string name="btn_mr">Memory recall</string>
+    <string name="btn_m_plus">Memory add</string>
+    <string name="btn_m_minus">Memory subtract</string>
+    <string name="btn_ms">Memory store</string>
+    <string name="btn_mv">Memory flyout</string>
+    <string name="btn_percent">Percent</string>
+    <string name="btn_ce">Clear entry</string>
+    <string name="btn_c">Clear</string>
+    <string name="btn_backspace">Backspace</string>
+    <string name="btn_reciprocal">Reciprocal</string>
+    <string name="btn_square">Square</string>
+    <string name="btn_sqrt">Square root</string>
+    <string name="btn_divide">Divide</string>
+    <string name="btn_multiply">Multiply</string>
+    <string name="btn_subtract">Minus</string>
+    <string name="btn_add">Plus</string>
+    <string name="btn_negate">Positive negative</string>
+    <string name="btn_dot">Decimal separator</string>
+    <string name="btn_equals">Equals</string>
+</resources>
